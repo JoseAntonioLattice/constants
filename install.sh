@@ -1,7 +1,5 @@
 #! /bin/bash
 
-libname=constants
-
 create_directory()
 {
   if [ -d $1 ]
