@@ -1,0 +1,8 @@
+module math
+
+  use iso_fortran_env, only : i4 => int32, dp => real64
+  implicit none
+
+  real(dp), parameter :: pi = acos(-1.0_dp)
+  
+end module math

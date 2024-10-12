@@ -1,0 +1,9 @@
+program test
+
+  use math
+
+  implicit none
+
+  print*, G_newton
+  
+end program test

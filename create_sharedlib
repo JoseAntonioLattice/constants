@@ -1,0 +1,3 @@
+
+gfortran -fpic -c -J../../include math.f90
+gfortran -shared -o ../libmath.so math.o
