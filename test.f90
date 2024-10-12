@@ -1,6 +1,6 @@
 program test
 
-  use math
+  use constants
 
   implicit none
 

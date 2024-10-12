@@ -18,5 +18,3 @@ create_directory $HOME/Fortran
 create_directory $HOME/Fortran/lib
 
 create_directory $HOME/Fortran/include
-
-git clone https://github.com/JoseAntonioLattice/constants.git $HOME/Fortran/lib/$libname
